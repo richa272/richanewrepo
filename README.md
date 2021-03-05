@@ -1,0 +1,2 @@
+# richanewrepo
+for practical purpose
